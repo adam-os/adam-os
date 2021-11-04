@@ -8,8 +8,6 @@
 
 📫 Reach out to me on LinkedIn : https://www.linkedin.com/in/adam-osman-90/ 
 
-😄 Pronouns: waryaa
-
 <!--
 *mohamedA007/mohamedA007* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
