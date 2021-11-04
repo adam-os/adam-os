@@ -1,4 +1,4 @@
-### Hi there, I'm Adam👋
+### Hi there, I'm Adam 👋
 
 🔭 I'm a Platform Engineer who has a passion for learning new technologies and sharing my knowledge to the community.
 
@@ -8,12 +8,18 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Adam Osman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 [linkedin]: https://www.linkedin.com/in/adam-osman-90/
+[website]: https://adam-osman.medium.com/
 
 <!--
 *mohamedA007/mohamedA007* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
