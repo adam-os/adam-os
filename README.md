@@ -1,10 +1,14 @@
 ### Hi there, I'm Adam👋
 
-🔭 🌱 I'm a Platform Engineer who has a passion for learning new technologies and sharing my knowledge to the community.
+🔭 I'm a Platform Engineer who has a passion for learning new technologies and sharing my knowledge to the community.
+
+🌱 I'm currently learning Python, CKS, Terraform and AWS tech.
 
 ☄️️ In the near future, I hope to create an open-source project and contibute to currently running open-source projects.
 
 📫 Reach out to me on LinkedIn : https://www.linkedin.com/in/adam-osman-90/ 
+
+😄 Pronouns: waryaa
 
 <!--
 *mohamedA007/mohamedA007* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
