@@ -4,7 +4,7 @@
 
 🌱 I'm currently learning Python, CKS, Terraform and AWS tech.
 
-☄️️ In the near future, I hope to create an open-source project and contibute to currently running open-source projects.
+☄️️ In the near future, I hope to contibute to running open-source projects and develop my skills amidst an ocean of opportunity. 🌊
 
 📫 Reach out to me on LinkedIn : https://www.linkedin.com/in/adam-osman-90/ 
 
