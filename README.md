@@ -6,8 +6,6 @@
 
 ☄️️ In the near future, I hope to contibute to running open-source projects and develop my skills amidst an ocean of opportunity. 🌊
 
-📫 Reach out to me on LinkedIn : https://www.linkedin.com/in/adam-osman-90/ 
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
