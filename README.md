@@ -15,6 +15,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to tackle the infamous CKA exam](https://adam-osman.medium.com/how-to-tackle-the-infamous-cka-exam-b141699dc418?source=rss-10d2e62d3ecc------2)
 <!-- BLOG-POST-LIST:END -->
 
 
