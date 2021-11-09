@@ -1,5 +1,5 @@
 ### Hi there, I'm Adam 👋
-
+<br />
 
 🔭 I'm a Platform Engineer who has a passion for learning new technologies and sharing my knowledge to the community.
 
@@ -7,14 +7,13 @@
 
 ☄️️ In the near future, I hope to contibute to running open-source projects and develop my skills amidst an ocean of opportunity. 🌊
 
-
+<br />
 ### Connect with me:
 
 
 <a href="https://www.linkedin.com/in/adam-osman-90/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@adamosman-blue?style=flat&logo=linkedin"></a>
 
 <br />
-
 
 ### 📕 Latest Articles:
 
