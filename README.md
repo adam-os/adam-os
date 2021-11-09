@@ -1,18 +1,23 @@
 ### Hi there, I'm Adam 👋
 
+
 🔭 I'm a Platform Engineer who has a passion for learning new technologies and sharing my knowledge to the community.
 
 🌱 I'm currently learning Python, CKS, Terraform and AWS tech.
 
 ☄️️ In the near future, I hope to contibute to running open-source projects and develop my skills amidst an ocean of opportunity. 🌊
 
+
 ### Connect with me:
+
 
 <a href="https://www.linkedin.com/in/adam-osman-90/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@adamosman-blue?style=flat&logo=linkedin"></a>
 
 <br />
 
+
 ### 📕 Latest Articles:
+
 
 <!-- BLOG-POST-LIST:START -->
 - [How to tackle the infamous CKA exam](https://adam-osman.medium.com/how-to-tackle-the-infamous-cka-exam-b141699dc418?source=rss-10d2e62d3ecc------2)
