@@ -8,11 +8,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Adam Osman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/adam-osman-90/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@adamosman-blue?style=flat&logo=linkedin"></a>
 
 <br />
 
-### 📕 Latest Blog Posts
+### 📕 Latest Articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [How to tackle the infamous CKA exam](https://adam-osman.medium.com/how-to-tackle-the-infamous-cka-exam-b141699dc418?source=rss-10d2e62d3ecc------2)
