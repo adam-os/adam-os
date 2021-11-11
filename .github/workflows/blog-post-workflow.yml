@@ -1,17 +1,19 @@
-
-
 name: Latest blog post workflow
-on:
-  schedule:
-    # Runs every day at a certain time
-    - cron: '0 12 * * *'
-  workflow_dispatch:
+on: [push]
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  hugo_to_medium_job:
     runs-on: ubuntu-latest
+    name: hugo-to-medium
     steps:
-      - uses: InfraWay/post-medium-action@v1.1.1
+      - uses: actions/checkout@v2
         with:
-          feed_list: "https://medium.com/feed/@adam-osman"
+          ref: master
+      - name: Hugo To medium Action step 
+        uses: pr4k/Hugo-to-Medium@master # Uses an action in the root directory
+        id: hello
+        env:
+          APP_ID: ${{secrets.APP_ID}}
+          ACCESS_TOKEN: ${{secrets.ACCESS_TOKEN}}
+          APP_SECRET: ${{secrets.APP_SECRET}}
+          BLOG_DIR: ${{secrets.BLOG_DIR}
