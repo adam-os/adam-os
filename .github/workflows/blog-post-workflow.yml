@@ -11,6 +11,7 @@ jobs:
           ref: master
       - name: Hugo To medium Action step 
         uses: pr4k/Hugo-to-Medium@master # Uses an action in the root directory
+          feed_list: "https://medium.com/feed/@adam-osman"
         id: hello
         env:
           APP_ID: ${{secrets.APP_ID}}
