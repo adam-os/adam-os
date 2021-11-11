@@ -21,6 +21,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to tackle the infamous CKA exam](https://adam-osman.medium.com/how-to-tackle-the-infamous-cka-exam-b141699dc418?source=rss-10d2e62d3ecc------2)
+- [From Mech Eng to DevOps](https://adam-osman.medium.com/from-mech-eng-to-devops-e10e63ee1fe)
 <!-- BLOG-POST-LIST:END -->
 
 
