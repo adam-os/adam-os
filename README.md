@@ -20,6 +20,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [From Mech Eng to DevOps](https://adam-osman.medium.com/from-mech-eng-to-devops-e10e63ee1fe)
 - [How to tackle the infamous CKA exam](https://adam-osman.medium.com/how-to-tackle-the-infamous-cka-exam-b141699dc418?source=rss-10d2e62d3ecc------2)
 <!-- BLOG-POST-LIST:END -->
 
@@ -28,7 +29,7 @@
 [website]: https://adam-osman.medium.com/
 
 <!--
-*mohamedA007/mohamedA007* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
