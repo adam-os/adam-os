@@ -28,6 +28,12 @@
 [linkedin]: https://www.linkedin.com/in/adam-osman-90/
 [website]: https://adam-osman.medium.com/
 
+<br />
+
+### GitHub Stats
+
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-os&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
