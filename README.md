@@ -30,10 +30,12 @@
 
 <br />
 
-### GitHub Stats
+<details>
+  <summary>:zap: GitHub Stats </summary>
 
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-os&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-os&count_private=true&show_icons=true&theme=radical)
 
+</details>
 <!--
 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
