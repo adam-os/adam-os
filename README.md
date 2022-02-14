@@ -3,7 +3,7 @@
 
 🔭 I'm a Platform Engineer who has a passion for learning new technologies and sharing my knowledge to the community.
 
-🌱 I'm currently learning Python, CKS, Terraform and AWS tech.
+🌱 I'm currently learning Golang, CKS, Terraform and AWS tech.
 
 ☄️️ In the near future, I hope to contibute to running open-source projects and develop my skills amidst an ocean of opportunity. 🌊
 
